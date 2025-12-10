@@ -1,7 +1,7 @@
 const exams = [
   { title: "CSATTT - chương 1", url: "https://azota.vn/de-thi/kvm19b" },
-  //   { title: "Đề Toán lớp 9 - Hình học", url: "https://azota.vn/de/xyz456" },
-  //   { title: "Đề Ôn tập cuối kì 1", url: "https://azota.vn/de/demo789" },
+  { title: "CSATTT - chương 2", url: "https://azota.vn/de-thi/5xtaeb" },
+  { title: "CSATTT - chương 3", url: "https://azota.vn/de-thi/hmf1cn" },
 ];
 
 function loadExams(list) {
